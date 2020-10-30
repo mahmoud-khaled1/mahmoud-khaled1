@@ -50,7 +50,7 @@
 [facebook]:https://www.facebook.com/engma7moud0/
 [youtube]:  https://www.youtube.com/channel/UCZQbbXKuCpZwKsb35aJBxWw
 [linkedin]: https://www.linkedin.com/in/mahmoud-khaled138/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://www.linkedin.com/in/mahmoud-khaled138/
+[jsplaylist]:https://www.linkedin.com/in/mahmoud-khaled138/
+[cssplaylist]: https://www.linkedin.com/in/mahmoud-khaled138/
+[reactplaylist]: https://www.linkedin.com/in/mahmoud-khaled138/
