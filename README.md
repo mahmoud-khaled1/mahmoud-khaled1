@@ -39,12 +39,9 @@
 ---
 
 
-<details>
- 
-
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mahmoud-khaled1&show_icons=true&hide_border=true" />
 
-</details>
+
 
 
 [facebook]:https://www.facebook.com/engma7moud0/
