@@ -1,4 +1,4 @@
-### Hi there, I'm mahmoud khaled -"BoYkaa" 👋
+### Hi there, I'm mahmoud khaled  👋
 
 
 ## I'm Machine Learning Enthusiast , ASP.NET MVC developer
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning 'Ai' Field and Web development using .NET framework.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Machine learning and Deep learning projects with Web app.
+- 🥅 2021 Goals: Contribute more to Machine learning and Deep learning projects with Web apps.
 - ⚡ Fun fact: I love to Coding and Learn everything about Technology.
 
 
