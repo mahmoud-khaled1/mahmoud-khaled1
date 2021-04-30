@@ -1,7 +1,7 @@
 ### Hi there, I'm mahmoud khaled  👋
 
 
-## I'm Machine Learning Enthusiast , ASP.NET MVC developer
+## I'm Machine Learning Enthusiast , Web developer
 
 
 - 🌱 I’m currently learning 'Ai' Field and Web development using .NET framework.
