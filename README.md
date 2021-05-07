@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Machine learning and Deep learning projects with Web apps.
 - ⚡ Fun fact: I love to Coding and Learn everything about Technology.
-<img src="https://komarev.com/ghpvc/?username=mahmoud-khaled1&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-khaled1" />
 
 
 
