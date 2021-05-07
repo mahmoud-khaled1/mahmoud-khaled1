@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Machine learning and Deep learning projects with Web apps.
 - ⚡ Fun fact: I love to Coding and Learn everything about Technology.
-- [![Most Active GitHub User Rank](https://en4ykswhoyisq3x.m.pipedream.net)](https://commits.top/egypt.html)
+- [![Repos Badge](https://badges.pufler.dev/repos/mahmoud-khaled1)](https://badges.pufler.dev)
+
 
 
 
