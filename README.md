@@ -1,13 +1,13 @@
 ### Hi there, I'm mahmoud khaled  👋
 
 
-## I'm Machine Learning Enthusiast , Web developer
+## I'm Machine Learning Enthusiast , ASP.Net Web developer
 
 
-- 🌱 I’m currently learning 'Ai' Field and Web development using .NET framework.
+- 🌱 I’m currently learning 'Ai' Field and Web development using ASP.NET Core .
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Machine learning and Deep learning projects with Web apps.
-- ⚡ Fun fact: I love to Coding and Learn everything about Technology.
+- Seeking a challenging position as a Software engineer where I can make effective use of my skills to help achieve the growth of this organization as well as developing my knowledge, enhancing my skills through new tasks
 
 
 
