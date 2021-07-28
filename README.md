@@ -1,7 +1,7 @@
 ### Hi there, I'm mahmoud khaled  👋
 
 
-## I'm Machine Learning Enthusiast , ASP.Net Web developer
+## I'm Machine Learning Enthusiast , ASP.Net Core Web developer
 
 
 - 🌱 I’m currently learning 'Ai' Field and Web development using ASP.NET Core .
