@@ -1,5 +1,9 @@
 ### Hi there, I'm mahmoud khaled  👋
+<p align="center">
 
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
 
 ## I'm  ASP.Net Core Web developer , Machine Learning Enthusiast , Problem Solver
 
@@ -11,6 +15,7 @@
 <br>
 
 ## Languages and Tools I use:
+
 <code><img title="C" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img title="C++" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img title="C#" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
