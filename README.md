@@ -11,7 +11,7 @@
 - I fall in love with coding and explore anything .
 - I'm currently working on building some Web development apps.
 - I'm currently learning ASP.NET Core ,Entity Framework , Design Pattern , databases(SQL/NOSQL) in-depth.
-- Open to work as a Software Backend Engineer after complete my military status.
+- Open to work as a Software Backend Engineer after complete my military service .
 <br>
 
 ## Languages and Tools I use:
