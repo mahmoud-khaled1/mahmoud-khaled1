@@ -13,7 +13,6 @@
 - I fall in love with coding and explore anything .
 - I'm currently working on building some Web development apps.
 - I'm currently learning ASP.NET Core ,Entity Framework , Design Pattern , databases(SQL/NOSQL) in-depth.
-- Open to work as a Software Backend Engineer 
 <br>
 
 ## Languages and Tools I use:
