@@ -40,11 +40,6 @@
 <br>
 
 
-## My Stats:
-
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoud-khaled1&count_private=true&show_icons=true&theme=radical)
-
-
 <br>
 🤝🏻 &nbsp;Connect with Me
 <p align="left">
