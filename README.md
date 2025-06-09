@@ -7,12 +7,12 @@
   
 </p>
 
-## I'm  ASP.Net Core Web developer , Machine Learning Enthusiast , Problem Solver
+## I'm an  ASP.Net Core Web developer, Machine Learning Enthusiast, Problem Solver
 
-- I'm a Junior Software Engineer.
-- I fall in love with coding and explore anything .
+- I'm a  Software Engineer ||.
+- I fell in love with coding and explored anything.
 - I'm currently working on building some Web development apps.
-- I'm currently learning ASP.NET Core ,Entity Framework , Design Pattern , databases(SQL/NOSQL) in-depth.
+- I'm learning in advance ASP.NET Core, Entity Framework, Design Pattern, databases(SQL/NOSQL) in-depth.
 <br>
 
 ## Languages and Tools I use:
